@@ -7,17 +7,23 @@
 
 ## 🚀 About Me  
 - 🎓 Currently pursuing an *MBA in Business Analytics*  
-- 💻 Skilled in *Python, SQL, Excel, Power BI, Tableau*  
 - 📊 Hands-on experience in *data cleaning, visualization, and predictive analysis*  
 - 🧩 Interests: Customer buying behavior, sales analytics, business strategy  
 
 ---
 
-## 🛠️ Skills & Tools  
-- *Languages:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- *Visualization:* Power BI, Tableau, Excel  
-- *Databases:* MySQL
-- *Others:* Data Cleaning, EDA, Business Insights, Forecasting  
+## 🛠️ Key Skills  
+
+*Programming & Data*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+*Visualization Tools*  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+*Databases*  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
@@ -35,8 +41,10 @@
 ---
 
 ## 📬 Connect with Me  
-- 💼 [linkedin.com/in/prithviraj-baskar-8909b8259]
-- 📧 [prithvirajbaskar28@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/prithviraj-baskar-8909b8259)  
+- 📧 [Email](mailto:prithvirajbaskar28@gmail.com)  
+- 📸 [Instagram](https://www.instagram.com/_prithvi._.28?igsh=MTB0Y2phYnI2NDF2ZQ%3D%3D&utm_source=qr)  
 
 ---
+
 ⭐️ “Turning data into decisions, and decisions into growth.”
