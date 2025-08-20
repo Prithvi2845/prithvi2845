@@ -16,7 +16,7 @@
 ## 🛠️ Skills & Tools  
 - *Languages:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
 - *Visualization:* Power BI, Tableau, Excel  
-- *Databases:* MySQL, PostgreSQL  
+- *Databases:* MySQL
 - *Others:* Data Cleaning, EDA, Business Insights, Forecasting  
 
 ---
@@ -35,8 +35,8 @@
 ---
 
 ## 📬 Connect with Me  
-- 💼 [LinkedIn](#)  
-- 📧 [Your Email]  
+- 💼 [linkedin.com/in/prithviraj-baskar-8909b8259]
+- 📧 [prithvirajbaskar28@gmail.com]
 
 ---
 ⭐️ “Turning data into decisions, and decisions into growth.”
