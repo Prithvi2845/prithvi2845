@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋, I'm Prithviraj  
 
-<!--
-**Prithvi2845/prithvi2845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 *Aspiring Business Analyst | Data Analyst*  
+🔎 Passionate about transforming raw data into meaningful insights to support smart business decisions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Currently pursuing an *MBA in Business Analytics*  
+- 💻 Skilled in *Python, SQL, Excel, Power BI, Tableau*  
+- 📊 Hands-on experience in *data cleaning, visualization, and predictive analysis*  
+- 🧩 Interests: Customer buying behavior, sales analytics, business strategy  
+
+---
+
+## 🛠️ Skills & Tools  
+- *Languages:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- *Visualization:* Power BI, Tableau, Excel  
+- *Databases:* MySQL, PostgreSQL  
+- *Others:* Data Cleaning, EDA, Business Insights, Forecasting  
+
+---
+
+## 📂 Featured Projects  
+- 📈 *Customer Buying Behavior Analysis* – Study on POS data of Aavin Milk Dairy  
+- 📊 *Sales Dashboard* – Power BI interactive dashboard for sales insights  
+- 🔮 *Predictive Analytics* – Python-based forecasting models  
+
+---
+
+## 🌱 Goals  
+- To build impactful projects in *business intelligence & analytics*  
+- To collaborate on open-source and real-world business datasets  
+
+---
+
+## 📬 Connect with Me  
+- 💼 [LinkedIn](#)  
+- 📧 [Your Email]  
+
+---
+⭐️ “Turning data into decisions, and decisions into growth.”
