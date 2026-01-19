@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 🎓 Currently pursuing an *MBA in Business Analytics*  
 - 📊 Hands-on experience in *data cleaning, visualization, and predictive analysis*  
-- 🧩 Interests: Customer buying behavior, sales analytics, business strategy  
+- 🧩 Interests: Data analytics, Business analytics & Human resources  
 
 ---
 
@@ -28,9 +28,9 @@
 ---
 
 ## 📂 Featured Projects  
-- 📈 *Customer Buying Behavior Analysis* – Study on POS data of Aavin Milk Dairy  
-- 📊 *Sales Dashboard* – Power BI interactive dashboard for sales insights  
-- 🔮 *Predictive Analytics* – Python-based forecasting models  
+- 📈 *Python(EDA)* - *Netflix’s content landscape*
+- 📊 *Analytical Dashboard(PowerBI)* –  *Player auction dynamics and Spending patterns in IPL*
+- 🔮 *Data Analysis(EDA & Dashboard)* – *Uber trips Data Analysis*
 
 ---
 
